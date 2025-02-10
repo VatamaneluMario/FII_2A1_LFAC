@@ -1,0 +1,11 @@
+int z 
+int z := 5 
+int z := 1 
+int v := -7
+array s := [test] 
+array t := [1] [2] [3] 
+int n := 1 
+int m := 0 
+int v := 0 
+int v := 0 
+v := 0 

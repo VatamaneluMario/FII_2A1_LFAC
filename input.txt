@@ -1,0 +1,50 @@
+STARTSTR
+
+STARTCLASS
+
+CLASS C{
+decl : 
+		int z
+func :
+		f1(int x) 
+}
+
+ENDCLASS
+
+STARTFCT
+
+Eval()
+{
+	int z := 5
+}
+
+TypeOf()
+{
+    for i: 1 , 10
+	{ int z := 1 }
+	return 2
+}
+
+function(int x)
+{
+	return 0
+}
+
+ENDFCT
+
+ENDSTR
+
+BEGIN
+	int v := {2 - 9 + 0}
+	array s := [test]
+	array t := [1,2,3]
+	function(v)
+	if (a < b)
+	{ return 1 }
+	for i: 1 , 10
+	{ int n := 1 }
+	while (v > 0)
+	{ int m := 0 }
+	return 0
+
+END
